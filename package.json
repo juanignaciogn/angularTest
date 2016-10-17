@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/juanignaciogn/angularTest/issues"
   },
-  "homepage": "https://github.com/juanignaciogn/angularTest#readme"
+  "homepage": "https://github.com/juanignaciogn/angularTest#readme",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "bootstrap": "^3.3.7"
+  }
 }
