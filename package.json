@@ -1,0 +1,23 @@
+{
+  "name": "angulartest",
+  "version": "1.0.0",
+  "description": "angular test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanignaciogn/angularTest.git"
+  },
+  "keywords": [
+    "angular",
+    "test"
+  ],
+  "author": "Juan Ignacio Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanignaciogn/angularTest/issues"
+  },
+  "homepage": "https://github.com/juanignaciogn/angularTest#readme"
+}
